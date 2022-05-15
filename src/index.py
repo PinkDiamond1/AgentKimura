@@ -15,7 +15,7 @@ def index():
 <p>この文章は、</p>
 <p>Electronでindex.jsを読み込んだあと、</p>
 <p><pre>「require('child_process').spawn('python',['./index.py']);」</pre></p>
-<p>によって、index.pyファイルを読み込み表示した文章です。hoge</p>
+<p>によって、index.pyファイルを読み込み表示した文章です。</p>
 <form action="/" method='GET'>
     <input type="submit" value="REFRESH">
 </form>
