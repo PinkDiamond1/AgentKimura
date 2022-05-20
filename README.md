@@ -4,4 +4,5 @@
 ```pipenv install```
 
 ## アプリイメージ
-![](src/appImage.png)
+![](src/templates/images/appImage.png)
+![](src/templates/images/appImage2.png)

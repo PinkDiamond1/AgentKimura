@@ -11,7 +11,7 @@ techacademy.on('ready', function() {
   let URL = 'http://localhost:5000';
 
   let openWindow = function() {
-  mainWindow = new BrowserWindow({width: 1000, height: 500 });
+  mainWindow = new BrowserWindow({width: 1000, height: 600 });
   mainWindow.loadURL(URL);
   mainWindow.webContents.openDevTools()
   };
